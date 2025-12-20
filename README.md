@@ -1,9 +1,5 @@
 # 💫 About Me:
-I am a Software Developer specializing in enterprise-grade platforms, with a strong focus on AR/XR, Digital Transaction Management (DTM), and modern full-stack development. I design intuitive, user-centric frontends using Angular, SAP UI5, JavaScript, and HTML5, and build scalable backend services with Java and Spring Boot, integrated with complex enterprise systems.
-
-My experience spans full-stack development, including API design, database modeling, frontend implementation, DevOps practices, and cross-functional collaboration. Alongside enterprise software, I have designed and evaluated immersive VR applications with haptic feedback, studying user behavior to improve interaction, training effectiveness, and engagement in Industry 4.0 contexts.
-
-My background bridges software engineering, immersive technologies, HCI, and AI, combining research-driven thinking with practical delivery. Based in Rome, I’m interested in connecting around immersive systems, enterprise platforms, and digital transformation.
+ I currently work as a Software Developer, building enterprise-grade platforms with Java 17, Spring Boot, MySQL, React, and related tooling, covering backend APIs, database design, frontend implementation, system integration, and XML/JSON-based data contracts. Alongside my professional work, I develop AI-focused projects independently, with hands-on experience in LLMs, RAG architectures, and AI agents, supported by NVIDIA’s “Building RAG Agents with LLMs” course and the JPMorgan Software Engineering program, which strengthened my understanding of scalable system design and AI-assisted development. Several of my self-initiated AI projects are available on GitHub, showcasing practical, production-oriented implementations. Previously, I worked as a Research Fellow at Università Roma Tre, designing and evaluating VR-based training systems with haptic feedback for Industry 4.0 and workplace safety contexts.
 
 
 ## 🌐 Socials:
