@@ -3,6 +3,8 @@
 
 On my own I build RAG systems and AI agents. Before BARS I was a VR and haptics researcher at Università Roma Tre.
 
+🌐 **Portfolio:** [tridrik-dey.github.io](https://tridrik-dey.github.io) — interactive CV with a 3D room
+
 📍 Rome, Italy · right to work in Italy · open to developer roles (Rome, hybrid, remote) · ✉️ tridrik21@gmail.com
 
 ## 🌐 Socials:
